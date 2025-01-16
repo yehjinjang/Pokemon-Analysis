@@ -1,6 +1,8 @@
 # 🕹️ Multivariate Statistical Analysis for Optimal Pokémon Team Formation
 
 ## 📖 Overview
+최적의 포켓몬 조합을 찾아라! 
+
 이 프로젝트는 다변량통계분석 수업의 일환으로, 포켓몬 월드챔피언십과 같은 e스포츠 대회에서 약점을 분석하여 최적의 포켓몬 팀 조합을 탐색하는 프로젝트입니다. 군집분석과 통계적 방법론을 활용하여 상성과 능력치를 고려한 이상적인 팀 구성을 제안했습니다.
 
 ---
